@@ -1,8 +1,8 @@
 {
   "name": "devdacticWebsite",
   "version": "0.0.1",
-  "author": "Ionic Framework",
-  "homepage": "https://ionicframework.com/",
+  "author": "Simon Grimm",
+  "homepage": "https://devdactic.com/",
   "scripts": {
     "ng": "ng",
     "start": "ng serve",
@@ -20,6 +20,7 @@
     "@angular/platform-browser-dynamic": "~11.2.0",
     "@angular/router": "~11.2.0",
     "@capacitor/core": "2.4.7",
+    "@capacitor/ios": "^2.4.7",
     "@ionic/angular": "^5.5.2",
     "rxjs": "~6.6.0",
     "tslib": "^2.0.0",
